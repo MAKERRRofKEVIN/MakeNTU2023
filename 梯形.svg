@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg7556"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="梯形.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7558"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.0617769"
+     inkscape:cx="108.45007"
+     inkscape:cy="213.20718"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs7553" />
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#f70016;stroke-width:0.250231;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill"
+       d="M 48.032583,45.324115 H 31.283045 l 4.999801,16.249869 h 6.749936 z"
+       id="path10858"
+       sodipodi:nodetypes="ccccc" />
+    <ellipse
+       style="fill:none;stroke:#f70016;stroke-width:0.249746;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="path8463-5-9"
+       cx="39.657814"
+       cy="57.148998"
+       rx="1.0751268"
+       ry="1.0751266" />
+  </g>
+</svg>
